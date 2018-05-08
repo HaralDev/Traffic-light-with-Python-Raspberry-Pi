@@ -11,6 +11,5 @@ Based on Tux Crossing by Gordon Henderson (https://projects.drogon.net/raspberry
   - 1 male - male jumper cable
 
 # Code
-I included two scripts: Blink.py and Traffic light.py. 
   - Traffic light.py is the main script. I used physical numbering instead of the one that Gordon used in the article. I expect answers to most questions can be found in Gordon's article and the wiringPi github/help. Feel free to ask me questions if you have them. 
   - Blink.pyis a script that will make your leds blink. 
